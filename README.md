@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-  <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="1280" height="480" alt="Front-end"  />
+  <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="1280" height="380" alt="Front-end"  />
 
 ###
 
