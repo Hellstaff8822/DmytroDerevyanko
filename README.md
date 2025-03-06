@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-  <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="1280" height="380" alt="Front-end"  />
+  <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" width="680" height="380" alt="Front-end"  />
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Frontend developer | HTML, CSS (SCSS), JavaScript, React, Angular  
+<p align="left">💻 Frontend developer | HTML, CSS (SCSS), JavaScript, React
 🚀 I am actively looking for opportunities for development in Frontend development  
 📫 Contact: [LinkedIn] https://www.linkedin.com/in/ddv-837950309/ | [Telegram] (https://t.me/Hellstaff_98) 
 </p>
