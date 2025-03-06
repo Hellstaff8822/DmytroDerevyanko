@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Frontend developer | HTML, CSS (SCSS), JavaScript, React, Angular  
+<p align="left">💻 Frontend developer | HTML, CSS (SCSS), JavaScript, React
 🚀 I am actively looking for opportunities for development in Frontend development  
 📫 Contact: [LinkedIn] https://www.linkedin.com/in/ddv-837950309/ | [Telegram] (https://t.me/Hellstaff_98) 
 </p>
