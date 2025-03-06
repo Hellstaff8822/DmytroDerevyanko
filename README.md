@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-  <img src="/Make your README.png" width="1280" height="640" alt="Front-end"  />
+  <img src="/Make your README.png" width="1280" height="480" alt="Front-end"  />
 
 ###
 
