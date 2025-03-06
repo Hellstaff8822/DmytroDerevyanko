@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">Hi, i'm Front-end developer working with HTML, CSS (SCSS), JavaScript, React</p>
+<p align="left">💻 Frontend developer | HTML, CSS (SCSS), JavaScript, React, Angular  
+🚀 I am actively looking for opportunities for development in Frontend development  
+📫 Contact: [LinkedIn]https://www.linkedin.com/in/ddv-837950309/ | [Telegram][(here link) ](https://t.me/Hellstaff_98) 
+</p>
 
 ###
 
