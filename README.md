@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-  <img src="/Make your README.png" height="40" alt="Front-end"  />
+  <img src="/Make your README (1).png" height="40" alt="Front-end"  />
 
 ###
 
@@ -62,6 +62,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
